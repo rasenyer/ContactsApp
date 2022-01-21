@@ -36,7 +36,7 @@ Aplicación de contactos, para guardar datos de tus contactos de manera local. E
 <h4>Google Truth:</h4>
 • Para hacer Test JUnit sobre el DAO de la base de datos. 
 
-<h3>Capturas de pantalla:</h3>
+<h2>Capturas de pantalla:</h2>
 
 <div class="row">
       	<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhqEKX9-kgzM2mRu8vVsg2uCrg2MzxRskwQ2t6TD2Oe8XAAk3u8RmzCFg_67uW4NFcmM_plsGwm-VPcOq2z34Mr-mFd-tzrY9es1Z0dym7-OrQEVmIQ8G0yuSDR0kgFBPPYeGr_V4QLX8jWbUcKFI96FSim3tMjUXU-_0qNInhy-Gq0Pj-BCrT8ZMNH=s16000" width="250">
