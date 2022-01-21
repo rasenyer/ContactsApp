@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContactsApp</string>
+    <string name="contacts">Contactos</string>
+    <string name="add_contact">Agregar contacto</string>
+    <string name="update_contact">Actualizar contacto</string>
+    <string name="name">Nombre</string>
+    <string name="bio">Bio</string>
+    <string name="add">Agregar</string>
+    <string name="update">Actualizar</string>
+    <string name="country_code">Código de país</string>
+    <string name="phone_number">Número de teléfono</string>
+    <string name="enter_the_name">Introduce el nombre</string>
+    <string name="enter_bio">Introduce la bio</string>
+    <string name="enter_country_code">Introduce el código de país</string>
+    <string name="enter_phone_number">Introduce el número de teléfono</string>
+    <string name="choose_the_country_code">Elija el código de país</string>
+    <string name="the_phone_number_must_have_9_characters">El número de teléfono debe tener 9 caracteres</string>
+    <string name="delete_all_contacts">Eliminar todos los contactos</string>
+    <string name="are_you_sure_you_want_to_delete_all_contacts">¿Está seguro de que desea eliminar todos los contactos?</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="added_contact">Contacto agregado</string>
+    <string name="updated_contact">Contacto actualizado</string>
+    <string name="deleted_contact">Contacto eliminado</string>
+    <string name="deleted_contacts">Contactos eliminados</string>
+
+</resources>

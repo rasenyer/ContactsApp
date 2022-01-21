@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">ContactsApp</string>
+    <string name="contacts">Contacts</string>
+    <string name="add_contact">Add contact</string>
+    <string name="update_contact">Update contact</string>
+    <string name="name">Name</string>
+    <string name="bio">Bio</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="country_code">Country code</string>
+    <string name="phone_number">Phone number</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="enter_bio">Enter bio</string>
+    <string name="enter_country_code">Enter country code</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="choose_the_country_code">Choose the country code</string>
+    <string name="the_phone_number_must_have_9_characters">The phone number must have 9 characters</string>
+    <string name="delete_all_contacts">Delete all contacts</string>
+    <string name="are_you_sure_you_want_to_delete_all_contacts">Are you sure you want to delete all contacts?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="added_contact">Added contact</string>
+    <string name="updated_contact">Updated contact</string>
+    <string name="deleted_contact">Deleted contact</string>
+    <string name="deleted_contacts">Deleted contacts</string>
+
+    <string-array name="countries">
+        <item>ARG +54 \u0020</item>
+        <item>CHL +56 \u0020</item>
+        <item>COL +57 \u0020</item>
+        <item>CRI +506 \u0020</item>
+        <item>ECU +593 \u0020</item>
+        <item>MEX +52 \u0020</item>
+        <item>PAN +507 \u0020</item>
+        <item>PER +51 \u0020</item>
+        <item>ESP +34 \u0020</item>
+        <item>USA +1 \u0020</item>
+        <item>URY +598 \u0020</item>
+    </string-array>
+    
+</resources>
